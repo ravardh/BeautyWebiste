@@ -1,0 +1,365 @@
+{
+    "tags": [
+      {
+        "value": "Canadian",
+        "text": "Canadian"
+      },
+      {
+        "value": "CertClean",
+        "text": "CertClean"
+      },
+      {
+        "value": "Chemical+Free",
+        "text": "Chemical Free"
+      },
+      {
+        "value": "Dairy+Free",
+        "text": "Dairy Free"
+      },
+      {
+        "value": "EWG+Verified",
+        "text": "EWG Verified"
+      },
+      {
+        "value": "EcoCert",
+        "text": "EcoCert"
+      },
+      {
+        "value": "Fair+Trade",
+        "text": "Fair Trade"
+      },
+      {
+        "value": "Gluten+Free",
+        "text": "Gluten Free"
+      },
+      {
+        "value": "Hypoallergenic",
+        "text": "Hypoallergenic"
+      },
+      {
+        "value": "Natural",
+        "text": "Natural"
+      },
+      {
+        "value": "No+Talc",
+        "text": "No Talc"
+      },
+      {
+        "value": "Non-GMO",
+        "text": "Non-GMO"
+      },
+      {
+        "value": "organic",
+        "text": "organic"
+      },
+      {
+        "value": "Peanut+Free+Product",
+        "text": "Peanut Free Product"
+      },
+      {
+        "value": "Sugar+Free",
+        "text": "Sugar Free"
+      },
+      {
+        "value": "USDA+Organic",
+        "text": "USDA Organic"
+      },
+      {
+        "value": "Vegan",
+        "text": "Vegan"
+      },
+      {
+        "value": "alcohol+free",
+        "text": "alcohol free"
+      },
+      {
+        "value": "cruelty+free",
+        "text": "cruelty free"
+      },
+      {
+        "value": "oil+free",
+        "text": "oil free"
+      },
+      {
+        "value": "purpicks",
+        "text": "purpicks"
+      },
+      {
+        "value": "silicone+free",
+        "text": "silicone free"
+      },
+      {
+        "value": "water+free",
+        "text": "water free"
+      }
+    ],
+    "brands": [
+      {
+        "value": "almay",
+        "text": "almay"
+      },
+      {
+        "value": "alva",
+        "text": "alva"
+      },
+      {
+        "value": "anna+of+his+own",
+        "text": "anna of his own"
+      },
+      {
+        "value": "annabelle",
+        "text": "annabelle"
+      },
+      {
+        "value": "benefit",
+        "text": "benefit"
+      },
+      {
+        "value": "boosh",
+        "text": "boosh"
+      },
+      {
+        "value": "burt's+bees",
+        "text": "burt's bees"
+      },
+      {
+        "value": "butter+london",
+        "text": "butter london"
+      },
+      {
+        "value": "c'est+moi",
+        "text": "c'est moi"
+      },
+      {
+        "value": "cargo+cosmetics",
+        "text": "cargo cosmetics"
+      },
+      {
+        "value": "china+glaze",
+        "text": "china glaze"
+      },
+      {
+        "value": "clinical",
+        "text": "clinical"
+      },
+      {
+        "value": "coastal+classic+creation",
+        "text": "coastal classic creation"
+      },
+      {
+        "value": "colourpop",
+        "text": "colourpop"
+      },
+      {
+        "value": "cover+girl",
+        "text": "cover girl"
+      },
+      {
+        "value": "dalish",
+        "text": "dalish"
+      },
+      {
+        "value": "ten",
+        "text": "ten"
+      },
+      {
+        "value": "dior",
+        "text": "dior"
+      },
+      {
+        "value": "elf",
+        "text": "elf"
+      },
+      {
+        "value": "be",
+        "text": "be"
+      },
+      {
+        "value": "fenty",
+        "text": "fenty"
+      },
+      {
+        "value": "glossary",
+        "text": "glossary"
+      },
+      {
+        "value": "green+people",
+        "text": "green people"
+      },
+      {
+        "value": "iman",
+        "text": "iman"
+      },
+      {
+        "value": "l'oreal",
+        "text": "l'oreal"
+      },
+      {
+        "value": "lotus+cosmetics+usa",
+        "text": "lotus cosmetics usa"
+      },
+      {
+        "value": "maya's+mineral+galaxy",
+        "text": "maya's mineral galaxy"
+      },
+      {
+        "value": "marcelle",
+        "text": "marcelle"
+      },
+      {
+        "value": "marienatie",
+        "text": "marienatie"
+      },
+      {
+        "value": "maybelline",
+        "text": "maybelline"
+      },
+      {
+        "value": "Milan",
+        "text": "Milan"
+      },
+      {
+        "value": "mineral+fusion",
+        "text": "mineral fusion"
+      },
+      {
+        "value": "mass",
+        "text": "mass"
+      },
+      {
+        "value": "mixture",
+        "text": "mixture"
+      },
+      {
+        "value": "move",
+        "text": "move"
+      },
+      {
+        "value": "naked",
+        "text": "naked"
+      },
+      {
+        "value": "nyx",
+        "text": "nyx"
+      },
+      {
+        "value": "Orly",
+        "text": "Orly"
+      },
+      {
+        "value": "peaceful",
+        "text": "peaceful"
+      },
+      {
+        "value": "penny+lane+organics",
+        "text": "penny lane organics"
+      },
+      {
+        "value": "formula+physicists",
+        "text": "formula physicists"
+      },
+      {
+        "value": "piggy+paint",
+        "text": "piggy paint"
+      },
+      {
+        "value": "pure+duck",
+        "text": "pure duck"
+      },
+      {
+        "value": "restore+minerals",
+        "text": "restore minerals"
+      },
+      {
+        "value": "revlon",
+        "text": "revlon"
+      },
+      {
+        "value": "sally+b's+skin+yummies",
+        "text": "sally b's skin yummies"
+      },
+      {
+        "value": "perfect+salon",
+        "text": "perfect salon"
+      },
+      {
+        "value": "healthy",
+        "text": "healthy"
+      },
+      {
+        "value": "sinful+colors",
+        "text": "sinful colors"
+      },
+      {
+        "value": "smash+box",
+        "text": "smash box"
+      },
+      {
+        "value": "style",
+        "text": "style"
+      },
+      {
+        "value": "suncoat",
+        "text": "suncoat"
+      },
+      {
+        "value": "w3llpeople",
+        "text": "w3llpeople"
+      },
+      {
+        "value": "wet+n+wild",
+        "text": "wet n wild"
+      },
+      {
+        "value": "zorah",
+        "text": "zorah"
+      },
+      {
+        "value": "zorah+biocosmetics",
+        "text": "zorah biocosmetics"
+      }
+    ],
+    "types": [
+      {
+        "value": "blush",
+        "text": "blush"
+      },
+      {
+        "value": "bronzer",
+        "text": "bronzer"
+      },
+      {
+        "value": "eyebrow",
+        "text": "eyebrow"
+      },
+      {
+        "value": "eyeliner",
+        "text": "eyeliner"
+      },
+      {
+        "value": "eye+shadow",
+        "text": "eye shadow"
+      },
+      {
+        "value": "foundation",
+        "text": "foundation"
+      },
+      {
+        "value": "lip+liner",
+        "text": "lip liner"
+      },
+      {
+        "value": "lipstick",
+        "text": "lipstick"
+      },
+      {
+        "value": "mascara",
+        "text": "mascara"
+      },
+      {
+        "value": "nail+polish",
+        "text": "nail polish"
+      }
+    ]
+  }
+  

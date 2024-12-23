@@ -1,0 +1,29 @@
+@media screen and (max-width: 900px) {
+    .col-4{
+        width: 48%;
+        margin: 0.2rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .col-1, .col-2, .col-3, .col-4{
+        width: 100%;
+        margin: 0.2rem;
+    }
+  }
+
+
+
+
+
+#item_image{
+    height: 50vh;
+}
+
+#pdtname{
+    height: 6rem;
+}
+
+.card{
+    margin: 1rem 0;
+}
