@@ -8,6 +8,7 @@ export const Home = () => {
   return (
     <>
       <Banner bannerName={"Home"}/>
+      <span>this is Home page</span>
     </>
   );
 };
