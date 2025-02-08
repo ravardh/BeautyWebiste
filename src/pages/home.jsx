@@ -7,7 +7,7 @@ import { Banner } from "../components/banner";
 export const Home = () => {
   return (
     <>
-      <Banner bannerName={"Home"}/>
+      <Banner bannerName={"Its a Home Page"}/>
     </>
   );
 };
