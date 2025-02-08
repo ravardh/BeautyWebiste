@@ -7,7 +7,7 @@ export const Banner = ({ bannerName }) => {
   return (
     <>
       <div className="container p-4 my-2" id="banner">
-        <h1 className="text-light">{bannerName}</h1>
+        <h1 className="text-danger">{bannerName}</h1>
       </div>
     </>
   );
